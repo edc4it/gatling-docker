@@ -1,6 +1,6 @@
 # gatling-docker
 
-Gatling container used during our courses
+Gatling container used during our various courses
 
 Example usage (from our k8s course)
 
